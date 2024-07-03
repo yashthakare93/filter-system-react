@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filter-system-react/static/css/main.1ef2ac3c.css",
+    "main.js": "/filter-system-react/static/js/main.b5085035.js",
+    "index.html": "/filter-system-react/index.html",
+    "main.1ef2ac3c.css.map": "/filter-system-react/static/css/main.1ef2ac3c.css.map",
+    "main.b5085035.js.map": "/filter-system-react/static/js/main.b5085035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef2ac3c.css",
+    "static/js/main.b5085035.js"
+  ]
+}
